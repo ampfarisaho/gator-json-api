@@ -1,5 +1,27 @@
-{
-  "versionCode": 22000017,
-  "versionName": "8.0.6",
-  "flavor": "release"
-}
+[
+  {
+    "versionCode": 22000017,
+    "versionName": "8.0.6",
+    "flavor": "dev"
+  },
+  {
+    "versionCode": 22000016,
+    "versionName": "8.0.5",
+    "flavor": "internal"
+  },
+  {
+    "versionCode": 22000016,
+    "versionName": "8.0.5",
+    "flavor": "alpha"
+  },
+  {
+    "versionCode": 22000016,
+    "versionName": "8.0.5",
+    "flavor": "beta"
+  },
+  {
+    "versionCode": 22000016,
+    "versionName": "8.0.5",
+    "flavor": "prod"
+  }
+]
