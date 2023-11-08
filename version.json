@@ -1,12 +1,4 @@
-[
-  {
-    "versionCode": 22000016,
-    "versionName": "8.0.5",
-    "flavor": "beta"
-  },
-  {
-    "versionCode": 22000016,
-    "versionName": "8.0.5",
-    "flavor": "prod"
-  }
-]
+{
+  "versionCode": 22000016,
+  "versionName": "8.0.5"
+}
